@@ -1,3 +1,18 @@
+# Testing Google Auth wir Nextjs 13
+
+### dependency
+```
+npm install next-auth
+```
+Convert .env.local_demo file to .env.local and asign variables values
+
+- [Next Auth Google Docs](https://next-auth.js.org/providers/google)
+- [Next Auth Docs](https://next-auth.js.org/)
+
+<hr>
+
+# Next Doc.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
