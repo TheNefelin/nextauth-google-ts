@@ -1,4 +1,4 @@
-# Testing Google Auth wir Nextjs 13
+# Testing Google Auth with Nextjs 13
 
 ### dependency
 ```
